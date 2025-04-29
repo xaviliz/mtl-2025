@@ -1,2 +1,3 @@
 Builds/
 .env/
+*.DS_Store
